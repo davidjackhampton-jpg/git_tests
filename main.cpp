@@ -19,7 +19,6 @@ int main()
     cin >> y;
     cout << "enter operation" << endl;
     cin >> operation;
-
     if (operation == "add") {
         addxy(x, y);
     }
